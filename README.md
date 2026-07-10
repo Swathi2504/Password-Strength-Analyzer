@@ -120,4 +120,4 @@ Through this project, the following skills were practiced:
 * Advanced security recommendations
 
 
-ended for educational and internship demonstration purposes only. It does not store user passwords and should not be used as a substitute for enterprise-grade password security solutions.
+
