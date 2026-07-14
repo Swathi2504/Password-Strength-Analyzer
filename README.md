@@ -46,7 +46,7 @@ Password-Strength-Analyzer/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Password-Strength-Analyzer.git
+git clone https://github.com/Swathi2504/Password-strength-Analyzer.git
 ```
 
 ### 2. Navigate to the Project Directory
@@ -119,5 +119,7 @@ Through this project, the following skills were practiced:
 * Password history analysis
 * Advanced security recommendations
 
+## License
 
+This project is created for educational purposes as part of the Decode Labs Cybersecurity Internship. Feel free to use and modify the code for academic and personal projects.
 
