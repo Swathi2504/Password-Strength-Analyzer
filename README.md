@@ -121,5 +121,5 @@ Through this project, the following skills were practiced:
 
 ## License
 
-This project is created for educational purposes as part of the Decode Labs Cybersecurity Internship. Feel free to use and modify the code for academic and personal projects.
+This project is created for educational purposes as part of the Decode Labs Cybersecurity Internship. Feel free to use and modify the code for academic and personal projects. 
 
